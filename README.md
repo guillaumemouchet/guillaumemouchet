@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
-<h3 align="center">A developer nearly out of school</h3>
+<h3 align="center">A developer out of school that finished his long military Service.</h3>
+<h3 align="center">Searching for a job from September 2025.</h3>
+
 
 <!--
 **guillaumemouchet/guillaumemouchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
