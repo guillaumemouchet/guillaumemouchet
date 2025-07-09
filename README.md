@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
 <h3 align="center">A developer out of school that finished his long military Service.</h3>
-<h3 align="center">Searching for a job as software engineer for September 2025.</h3>
+<h3 align="center">Searching for a job as a software engineer for September 2025.</h3>
 
 Come see my resume on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/titus-abele-13265821b/)](https://www.linkedin.com/in/guillaume-mouchet-b537a9267/)
 
