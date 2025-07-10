@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
-<h3 align="center">A developer out of school that finished his long military Service.</h3>
+<h3 align="center">A developer out of school that finished his long military Service as a Directed Wave Pionneer Sergeant.</h3>
 <h3 align="center">Searching for a job as a software engineer for September 2025.</h3>
 
-Come see my resume on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/titus-abele-13265821b/)](https://www.linkedin.com/in/guillaume-mouchet-b537a9267/)
+Come see my resume on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/guillaume-mouchet-b537a9267/)](https://www.linkedin.com/in/guillaume-mouchet-b537a9267/)
 
-[![GitHub TitusVM](https://img.shields.io/github/followers/TitusVM?label=Follow&style=social)](https://github.com/guillaumemouchet)
+[![GitHub guillaumemouchet](https://img.shields.io/github/followers/guillaumemouchet?label=Follow&style=social)](https://github.com/guillaumemouchet)
 <!--
 **guillaumemouchet/guillaumemouchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://rahuldkjain.github.io/gh-profile-readme-generator/
